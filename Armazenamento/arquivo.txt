@@ -1,0 +1,69 @@
+Diario de um banana
+1
+J. K. Rowling
+Bloomsbury Publishing
+0-7475-3269-9
+75000
+1997
+1
+1
+
+Harry Potter e a pedra filosofal
+1
+J. K. Rowling
+Bloomsbury Publishing
+0-7475-3269-9
+75000
+1997
+1
+1
+
+Convergente
+2
+Veronica Roth
+HarperCollins
+9788579801860
+70000
+2013
+1
+2
+
+Veja
+2688
+Victor Civita
+Editora Abril
+555666777888
+40000
+2020
+2
+3
+
+Mottons History
+2
+Henrique Motton
+Mottons
+213
+99
+2021
+1
+2
+
+Teste final
+1
+Henrique Fratoni Motton
+12
+12312
+12
+1999
+2
+3
+
+GITHUB
+GIT
+Henrique Motton
+Motton's
+1223
+12
+2021
+1
+1
